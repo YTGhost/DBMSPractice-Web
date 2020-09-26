@@ -1,0 +1,6 @@
+.DS_Store
+ssm-back-end/.idea
+ssm-back-end/out
+ssm-back-end/target
+vue-front-end/.idea
+vue-front-end/node_modules
