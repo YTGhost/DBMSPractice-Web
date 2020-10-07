@@ -13,7 +13,7 @@ import Teaching from "@/components/Teaching";
 Vue.use(VueRouter)
 
 const router = new VueRouter({
-    mode: 'history',
+    mode: 'hash',
     routes: [
         {path: '/', redirect: '/login'},
         {path: '/login', component: Login},
