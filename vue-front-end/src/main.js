@@ -6,7 +6,7 @@ import './plugins/element.js'
 import 'element-ui/lib/theme-chalk/index.css';
 import router from './router'
 
-axios.defaults.baseURL = 'http://localhost:8081/ssm-back-end/api/'
+axios.defaults.baseURL = 'https://www.hihia.top/ssm-back-end-api/'
 Vue.config.productionTip = false
 Vue.prototype.$http = axios
 Vue.use(VueRouter)

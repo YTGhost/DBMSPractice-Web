@@ -3,7 +3,7 @@ import {
     Button, Form, FormItem, Input, Avatar, Message, Container, Header, Aside, Main,
     Menu, Submenu, MenuItem, Breadcrumb, BreadcrumbItem, Card, Row, Col, Table, TableColumn,
     Switch, Tooltip, Pagination, Dialog, MessageBox, Tag, Tree, Select, Option, ButtonGroup,
-    Footer
+    Footer, DatePicker
 } from 'element-ui'
 
 Vue.use(Button)
@@ -35,5 +35,6 @@ Vue.use(Select)
 Vue.use(Option)
 Vue.use(ButtonGroup)
 Vue.use(Footer)
+Vue.use(DatePicker)
 Vue.prototype.$confirm = MessageBox.confirm
 Vue.prototype.$message = Message
