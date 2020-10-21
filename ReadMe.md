@@ -1,5 +1,15 @@
 # 说明文档
 
+## 体验地址
+
+前端访问页面： https://www.hihia.top/vue-front-end
+
+后端swagger API文档： https://www.hihia.top/ssm-back-end-api/swagger-ui.html
+
+后端BaseUrl： https://www.hihia.top/ssm-back-end-api/
+
+GitHub地址： https://github.com/YTGhost/DBMSPractice-Web
+
 ## 项目介绍
 
 采用前后端分离的开发模式，前端发送Ajax请求给后端进行交互，后端不返回页面，只返回Json数据。
@@ -59,14 +69,4 @@
 使用PostgreSQL作为数据库，数据库同样搭建在云服务器上：
 
 <img src="http://image.hihia.top/Screenshot/image-20201021115417807.png" alt="image-20201021115417807" style="zoom:50%;" />
-
-## 体验地址
-
-前端访问页面： https://www.hihia.top/vue-front-end
-
-后端swagger API文档： https://www.hihia.top/ssm-back-end-api/swagger-ui.html
-
-后端BaseUrl： https://www.hihia.top/ssm-back-end-api/
-
-GitHub地址： https://github.com/YTGhost/DBMSPractice-Web
 
